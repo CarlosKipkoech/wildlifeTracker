@@ -1,0 +1,17 @@
+{{#partial "content"}}
+
+
+    <h1>NAME: {{animal.name}}</h1>
+    <hr>
+    {{#if animal.sightings}}
+        {{#each animal.sightings}}
+            <hr>
+            <p>Location Sighted: {{location}}</p>
+            <p>Ranger Name: {{ranger}}</p>
+        {{/each}}
+    {{/if}}
+
+
+{{/partial}}
+
+{{> layout.hbs}}
