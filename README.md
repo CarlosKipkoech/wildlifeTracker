@@ -36,5 +36,5 @@ Also you can,
 
 
 ### Usage
-To monitor Wildlife.
+To track and rgeister wild animals
 
