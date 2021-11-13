@@ -46,3 +46,6 @@ To track and rgeister wild animals
 ### Contact Information
 My Email [Carlos Kipkoech](Carlos598798@gmail.com).
 
+### Known Bugs
+So far,so Good
+
