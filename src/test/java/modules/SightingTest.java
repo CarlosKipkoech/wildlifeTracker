@@ -29,7 +29,7 @@ public class SightingTest {
     }
 
     @Test
-    public void getRanger_sightingInstantiatesWithRanger_Kevin() {
+    public void getRanger_sightingInstantiatesWithRanger_carlos() {
         Sighting testSighting = new Sighting("ZoneA","carlos",1);
         assertEquals("carlos", testSighting.getRanger());
     }
