@@ -41,7 +41,7 @@ To track and rgeister wild animals
 ### BDD
 * Get user input depending on choice of form.
 * Use submitted data to record details of various wild animals for better organization of these animals situations.
-* Enlist the data in well layed easy follow up way.#### Support and Contact Details
+* Enlist the data in well layed easy follow up way.
 
 ### Contact Information
 My Email [Carlos Kipkoech](Carlos598798@gmail.com).
