@@ -18,6 +18,9 @@ Deployed to: [Heroku]().
 Also you can,
 * Clone repository
 * Locally in PSQL setup the database as follows;
+> first change your password and username to match credentials in the db.java
+> ALTER USER user_name WITH PASSWORD '77777';
+> ALTER USER user_name RENAME TO new_name
 
 * CREATE DATABASE wildlife_tracker;
 * Connect to the database : \c wildlife_tracker;
