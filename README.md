@@ -49,3 +49,7 @@ My Email [Carlos Kipkoech](Carlos598798@gmail.com).
 ### Known Bugs
 So far,so Good
 
+#### Contributing
+Reach out for any addition to the project.
+
+
