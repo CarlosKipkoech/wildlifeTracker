@@ -11,7 +11,7 @@ It's An Application that allows rangers to sight animals, record their location 
 * POSTGRES
 * Spark
 * Gradle
-* 
+* JUnit
 
 ### SetUp link:
 Deployed to: [Heroku](https://carlos-trackpaw.herokuapp.com/).
